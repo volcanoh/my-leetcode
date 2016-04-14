@@ -1,2 +1,2 @@
 # my-leetcode
-[LeetCode][https://leetcode.com/problemset/algorithms/]
+[LeetCode](https://leetcode.com/problemset/algorithms/)
