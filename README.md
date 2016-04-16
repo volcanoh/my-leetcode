@@ -1,5 +1,5 @@
 # LeetCode
-[LeetCode OJ](https://leetcode.com/problemset/algorithms/)
+[LeetCode Algorithm Problems](https://leetcode.com/problemset/algorithms/)
 
 |#|Title|Solution|Difficulty|
 |---|---|---------|------|  
