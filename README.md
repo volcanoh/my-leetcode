@@ -8,3 +8,4 @@
 |3|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)|[cpp](./cpp/longestSubstringWithoutRepeatingCharacters.cpp)|Medium|
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[cpp](./cpp/medianOfTwoSortedArrays.cpp)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[cpp](./cpp/longestPalindromicSubstring.cpp)|Medium|
+|6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[cpp](./cpp/zigZagConversion.cpp)|Easy|
