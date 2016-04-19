@@ -10,3 +10,4 @@
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[cpp](./cpp/longestPalindromicSubstring.cpp)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[cpp](./cpp/zigZagConversion.cpp)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[cpp](./cpp/reverseInteger.cpp)|Easy|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[cpp](./cpp/stringToInteger.cpp)|Easy|
