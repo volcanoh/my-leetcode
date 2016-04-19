@@ -11,4 +11,4 @@
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[cpp](./cpp/zigZagConversion.cpp)|Easy|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[cpp](./cpp/reverseInteger.cpp)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[cpp](./cpp/stringToInteger.cpp)|Easy|
-|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)[cpp](./cpp/palindromeNumber.cpp)|Easy|
+|9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[cpp](./cpp/palindromeNumber.cpp)|Easy|
