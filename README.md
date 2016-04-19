@@ -9,3 +9,4 @@
 |4|[Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)|[cpp](./cpp/medianOfTwoSortedArrays.cpp)|Hard|
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)|[cpp](./cpp/longestPalindromicSubstring.cpp)|Medium|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)|[cpp](./cpp/zigZagConversion.cpp)|Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[cpp](./cpp/reverseInteger.cpp)|Easy|
