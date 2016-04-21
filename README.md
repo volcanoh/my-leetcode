@@ -12,3 +12,4 @@
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[cpp](./cpp/reverseInteger.cpp)|Easy|
 |8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)|[cpp](./cpp/stringToInteger.cpp)|Easy|
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[cpp](./cpp/palindromeNumber.cpp)|Easy|
+|10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[cpp](.cpp/regularExpressionMatching.cpp)|Hard|
