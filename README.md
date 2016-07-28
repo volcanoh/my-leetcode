@@ -14,4 +14,5 @@
 |9|[Palindrome Number](https://leetcode.com/problems/palindrome-number/)|[cpp](./cpp/palindromeNumber.cpp)|Easy|
 |10|[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)|[cpp](./cpp/regularExpressionMatching.cpp)|Hard|
 |11|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/)|[cpp](./cpp/containerWithMostWater.cpp)|Medium|
-|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[cpp](./cpp/integerToRoman.cpp)|Easy|
+|12|[Integer to Roman](https://leetcode.com/problems/integer-to-roman/)|[cpp](./cpp/integerToRoman.cpp)|Medium|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)|[cpp](./cpp/romanToInteger.cpp)|Easy|
